@@ -4951,7 +4951,6 @@ jse_preset_vocubjoury: trje  # 導入八股文字頻
 朳	uiojoj
 朸	uiojko
 朻	uiojki
-襾	uikiiu
 朿	uikioj
 圬	uiuuuk
 圩	uiuuui
