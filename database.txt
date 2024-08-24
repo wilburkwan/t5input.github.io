@@ -843,6 +843,7 @@ jse_preset_vocubjoury: trje  # 導入八股文字頻
 染	jjuokuioj
 掌	ijojkikuouui
 簡	oujoujikuuikuuikuu
+簡	oujoujkuuiikuuikuu (蘋果)
 試	juuuikuuuiukj
 娘	koujkuukoj
 控	uiujjkojuiu
