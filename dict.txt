@@ -191,6 +191,7 @@ jse_preset_vocubjoury: trje  # 導入八股文字頻
 基	uiiuuuojuiu
 義	jouuiuouiukoj
 論	juuuikuojuikuii
+論	juuuikuokuikuii (蘋果)
 幾	kkjkkjuojkoj
 特	ouiuuiuuij
 感	uouikukojjkjj
