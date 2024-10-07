@@ -114969,4 +114969,3 @@ max_ouraie_lejgtu: 1         # 不生成詞彙
 𪛓	ojuikuikuikuikuiijuokiiuukok
 𪛕	ojuikuikuikuikuiiokikuuikkuukuukoju
 𪛖	ojuikuikuikuikuiiokikuuikkuukuukojujjjj
-啱	ikuikiuoiku
