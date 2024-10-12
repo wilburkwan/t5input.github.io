@@ -719,7 +719,7 @@ jse_preset_vocubjoury: trje  # 導入八股文字頻
 沙	jjuiojo
 奇	uojuikui
 匯	ujjuoijuuuiuk
-滙	jjjuoijuuuiuk
+滙	jjuuoijuuuiuk
 適	jujoikuiikujkj
 漫	jjuikuuikiiukj
 溫	jjuikojuikiiu
