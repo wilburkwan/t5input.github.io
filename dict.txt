@@ -18782,7 +18782,6 @@ max_ouraie_lejgtu: 1         # 不生成詞彙
 綨	kkjjjjuiiuuuoj
 綩	kkjjjjjjkokjkk
 綪	kkjjjjuuiuikuu
-綫	kkjjjjukjoukjo
 綬	kkjjjjojjojkkj
 維	kkjjjjoijuuuiu
 綮	jkuoouojkkjioj

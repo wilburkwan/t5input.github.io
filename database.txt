@@ -341,6 +341,7 @@ jse_preset_vocubjoury: trje  # 導入八股文字頻
 車	uikuuui
 萬	uiiikuuikiuj
 群	kuuoikujouuui
+羣	kuuoikujouuui
 今	ojjk
 歷	uoouiojouiojiuiu
 百	uoikuu
@@ -519,6 +520,7 @@ jse_preset_vocubjoury: trje  # 導入八股文字頻
 初	jkiojko
 顯	ikuukkjkkjjjjjuoikuuuoj
 廠	juoijoikikuouoj
+厰	uoijoikikuouoj
 查	uiojikuuu
 份	oiojko
 段	oiuuuokkj
@@ -713,9 +715,11 @@ jse_preset_vocubjoury: trje  # 導入八股文字頻
 校	uiojjuojoj
 睛	ikuuuuuiuikuu
 線	kkjjjjoikuuikoj
+綫	kkjjjjukojukoj
 沙	jjuiojo
 奇	uojuikui
 匯	ujjuoijuuuiuk
+滙	jjjuoijuuuiuk
 適	jujoikuiikujkj
 漫	jjuikuuikiiukj
 溫	jjuikojuikiiu
@@ -1215,6 +1219,7 @@ jse_preset_vocubjoury: trje  # 導入八股文字頻
 軟	uikuuuiokoj
 薄	uiijjuuikuuijuij
 啟	jkuoikuouoj
+啓	jkuoouojiku
 雞	ojjokkjuojoijuuuiu
 競	jujouikuokjujouikuok
 紹	kkjjjjkoiku
@@ -1250,6 +1255,7 @@ jse_preset_vocubjoury: trje  # 導入八股文字頻
 蕩	uiijjuikuuuokoo
 岸	ikiuouui
 峰	ikiokjuuui
+峯	ikiokjuuui
 稿	ouiojjuikuikiku
 肩	jkuoikuu
 爛	joojikuuikuuuikjouioj
@@ -1328,6 +1334,7 @@ jse_preset_vocubjoury: trje  # 導入八股文字頻
 齡	iuiuojojuojojkiojjkj
 牌	oiukoikuuoui
 衛	ooikiuikuukiuui
+衞	ooikiuikuuikiuuk
 爬	ooijkiuk
 魚	okikuiujjjj
 遊	jukooukiujkj
@@ -1523,6 +1530,7 @@ jse_preset_vocubjoury: trje  # 導入八股文字頻
 壽	uiukuiuuikuuij
 迪	ikuiujkj
 罵	ikiiuuiuuikjjjj
+駡	ikuikuiuuuikjjjj
 圈	ikjouuojkku
 簽	oujoujojuikuikuojoj
 敏	oukkjujouoj
@@ -2222,6 +2230,7 @@ jse_preset_vocubjoury: trje  # 導入八股文字頻
 催	oiikioijuuuiu
 俄	oiouiukoj
 敘	ojuuiojouoj
+敍	ojuuiojiukj
 饑	ojjkuukjkkjkkjuojkoj
 貓	ojjokoouiiikuiu
 穌	okikuiujjjjouioj
@@ -2247,7 +2256,9 @@ jse_preset_vocubjoury: trje  # 導入八股文字頻
 芒	uiijuk
 汪	jjuuuiu
 麵	uiojojojokjuoikiiuuu
+麪	uiojojojokjuikk
 柏	uiojoikuu
+栢	uiojuoikuu
 豎	uikuikkjuikujou
 垮	uiuuojuuk
 拒	uiuukuk
@@ -2567,6 +2578,7 @@ jse_preset_vocubjoury: trje  # 導入八股文字頻
 趁	uiuiuojojooo
 煮	uiuoikuujjjj
 恥	uiiuuujkjj
+耻	uiiuuuiuiu
 樞	uiojuikuikuikuk
 棺	uiojjjkikuku
 垃	uiujujou
@@ -2669,6 +2681,7 @@ jse_preset_vocubjoury: trje  # 導入八股文字頻
 秒	ouiojiojo
 熏	ouikjouiuujjjj
 筍	oujoujokikuu
+笋	oujoujkuuo
 憊	oiuiiuoikuuijkjj
 徘	ooiiuuuiuuu
 飼	ojjkuukjkuiku
