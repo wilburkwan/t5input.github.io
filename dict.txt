@@ -87449,7 +87449,6 @@ max_ouraie_lejgtu: 1         # 不生成詞彙
 諒	juuuikujuikuioj
 諓	juuuikuukojukoj
 諔	juuuikuiuuiojkj
-論	juuuikuokuikuii
 諗	juuuikuojjkjkjj
 諝	juuuikukiuojikuu
 諞	juuuikujkuoikuii
