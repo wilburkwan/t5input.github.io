@@ -18388,6 +18388,7 @@ max_ouraie_lejgtu: 1         # 不生成詞彙
 簞	oujoujikuikuikuuui
 簟	oujoujuikiiuikuuui
 簠	oujoujuikuuijikiiu
+簡	oujoujikuuikuuikuu
 簡	oujoujkuuiikuuikuu (蘋果)
 簢	oujoujikuuikuujuoj
 簣	oujoujikuiuikuuuoj
@@ -22152,6 +22153,7 @@ max_ouraie_lejgtu: 1         # 不生成詞彙
 諓	juuuikuukojukoj
 諔	juuuikuiuuiojkj
 諕	juuuikuiukoukok
+論	juuuikuojuikuii
 論	juuuikuokuikuii (蘋果)
 諗	juuuikuojjkjkjj
 諘	juuuikuuuiuokoj
